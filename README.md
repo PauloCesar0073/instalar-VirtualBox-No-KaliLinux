@@ -15,6 +15,6 @@ chmod +x instalar.sh
 ```
 - 3º apenas só o executar !
 ```
-./instalar.sh
+sudo ./instalar.sh
 
 ```
